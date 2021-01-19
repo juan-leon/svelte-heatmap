@@ -1,9 +1,9 @@
 {
-  "author": "Scott Bedard",
+  "author": "Scott Bedard / Jakob Fix",
   "bugs": {
-    "url": "https://github.com/scottbedard/svelte-heatmap/issues"
+    "url": "https://github.com/jfix/svelte-heatmap/issues"
   },
-  "description": "A light weight and customizable version of GitHub's contribution graph",
+  "description": "A fork of scottbedard's light weight and customizable version of GitHub's contribution graph",
   "devDependencies": {
     "@babel/core": "^7.10.2",
     "@babel/preset-env": "^7.10.2",
@@ -22,7 +22,7 @@
     "src",
     "dist"
   ],
-  "homepage": "https://github.com/scottbedard/svelte-heatmap",
+  "homepage": "https://github.com/jfix/svelte-heatmap",
   "keywords": [
     "svelte"
   ],
@@ -32,7 +32,7 @@
   "name": "svelte-heatmap",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/scottbedard/svelte-heatmap.git"
+    "url": "git+https://github.com/jfix/svelte-heatmap.git"
   },
   "svelte": "src/index.js",
   "scripts": {
@@ -42,5 +42,5 @@
     "watch": "rollup -c -w"
   },
   "unpkg": "dist/index.umd.min.js",
-  "version": "1.0.2"
+  "version": "0.0.1"
 }
