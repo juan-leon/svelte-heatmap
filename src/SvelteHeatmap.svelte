@@ -2,7 +2,6 @@
     {#if view === 'monthly'}
         {#each chunks as chunk, index}
             <Month
-                cellGap={cellGap}
                 cellRadius={cellRadius}
                 cellRect={cellRect}
                 cellSize={cellSize}
