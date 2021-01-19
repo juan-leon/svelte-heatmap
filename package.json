@@ -29,7 +29,7 @@
   "license": "MIT",
   "main": "dist/index.js",
   "module": "dist/index.esm.js",
-  "name": "svelte-heatmap",
+  "name": "@jfix/svelte-heatmap",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/jfix/svelte-heatmap.git"
@@ -42,5 +42,6 @@
     "watch": "rollup -c -w"
   },
   "unpkg": "dist/index.umd.min.js",
-  "version": "0.0.1"
+  "version": "0.0.1",
+  "dependencies": {}
 }
