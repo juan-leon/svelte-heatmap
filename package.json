@@ -1,7 +1,7 @@
 {
   "author": "Scott Bedard / Jakob Fix",
   "bugs": {
-    "url": "https://github.com/jfix/svelte-heatmap/issues"
+    "url": "https://github.com/juan-leon/svelte-heatmap/issues"
   },
   "description": "A fork of scottbedard's light weight and customizable version of GitHub's contribution graph",
   "devDependencies": {
@@ -22,17 +22,17 @@
     "src",
     "dist"
   ],
-  "homepage": "https://github.com/jfix/svelte-heatmap",
+  "homepage": "https://github.com/juan-leon/svelte-heatmap",
   "keywords": [
     "svelte"
   ],
   "license": "MIT",
   "main": "dist/index.js",
   "module": "dist/index.esm.js",
-  "name": "@jfix/svelte-heatmap",
+  "name": "@juan-leon/svelte-heatmap",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jfix/svelte-heatmap.git"
+    "url": "git+https://github.com/juan-leon/svelte-heatmap.git"
   },
   "svelte": "src/index.js",
   "scripts": {
